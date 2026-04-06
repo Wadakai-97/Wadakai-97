@@ -48,3 +48,11 @@ jobs:
           scripter, packager, explorer, infographile, manager
         plugin_achievements_display: compact
         plugin_achievements_threshold: X
+    - name: Isometric calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: output/metrics.plugin.isocalendar.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year
