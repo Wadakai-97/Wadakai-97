@@ -36,15 +36,15 @@ jobs:
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
-    - name: Compact display
+    - name: Notable contributions
       uses: lowlighter/metrics@latest
       with:
-        filename: output/metrics.plugin.achievements.compact.svg
+        filename: output/metrics.plugin.notable.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
-        plugin_achievements: yes
-        plugin_achievements_display: compact
-        plugin_achievements_threshold: C
+        plugin_notable: yes
+        plugin_notable_from: all
+        plugin_notable_repositories: yes
     - name: Isometric calendar
       uses: lowlighter/metrics@latest
       with:

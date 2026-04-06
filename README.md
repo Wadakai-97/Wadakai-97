@@ -62,9 +62,9 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" />
-        <img width="100%" alt="Achievements" src="output/metrics.plugin.achievements.compact.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.notable.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.notable.svg" />
+        <img width="100%" alt="Notable Contributions" src="output/metrics.plugin.notable.svg" />
       </picture>
     </td>
   </tr>
