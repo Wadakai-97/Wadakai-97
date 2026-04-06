@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&amp;theme=light" />
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=php,laravel,ts,js,go,python,dart,flutter,html,css,terraform,docker,aws,git,github&amp;theme=dark" />
   </picture>
 </p>
 
