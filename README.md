@@ -41,16 +41,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.isocalendar.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.isocalendar.svg" />
-    <img width="100%" alt="Isometric Calendar" src="output/metrics.plugin.isocalendar.svg" />
-  </picture>
-</p>
-
-<br />
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
     <img width="100%" alt="3D Contribution Chart" src="profile-3d-contrib/profile-night-rainbow.svg" />
