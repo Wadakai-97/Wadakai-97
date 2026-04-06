@@ -22,16 +22,16 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wadakai-97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6E9EF7&icon_color=A855F7&text_color=c9d1d9&ring_color=6E9EF7" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wadakai-97&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2f80ed&icon_color=A855F7" />
-        <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wadakai-97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6E9EF7&icon_color=A855F7&text_color=c9d1d9&ring_color=6E9EF7" />
+        <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" />
+        <img width="100%" alt="GitHub Stats" src="output/metrics.base.svg" />
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wadakai-97&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E9EF7&ring=6E9EF7&fire=FF6B35&currStreakLabel=6E9EF7" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wadakai-97&theme=default&hide_border=true" />
-        <img width="100%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadakai-97&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E9EF7&ring=6E9EF7&fire=FF6B35&currStreakLabel=6E9EF7" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Wadakai-97&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E9EF7&ring=6E9EF7&fire=FF6B35&currStreakLabel=6E9EF7" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Wadakai-97&theme=default&hide_border=true" />
+        <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Wadakai-97&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E9EF7&ring=6E9EF7&fire=FF6B35&currStreakLabel=6E9EF7" />
       </picture>
     </td>
   </tr>
@@ -41,9 +41,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Wadakai-97&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Wadakai-97&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Wadakai-97&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.isocalendar.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.isocalendar.svg" />
+    <img width="100%" alt="Isometric Calendar" src="output/metrics.plugin.isocalendar.svg" />
   </picture>
 </p>
 
